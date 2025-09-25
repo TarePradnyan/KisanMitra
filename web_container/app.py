@@ -139,7 +139,7 @@ def profile():
 
         print(f"{name} logged in with {phoneNumber} from {pincode}")
 
-        
+
         redirect("/")
 
 
@@ -223,3 +223,4 @@ if __name__ =="__main__":
 # community
 # google translator api
 # 
+#adgfhjk
